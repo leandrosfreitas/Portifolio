@@ -26,7 +26,7 @@ Esse projeto foi criado com o intuito de demonstrar minhas habilidades práticas
 
 ## 🌐 Acesse o portfólio (caso publicado)
 
-[🔗 Veja online aqui](https://seu-link-aqui.com)
+[🔗 Veja online aqui]([https://seu-link-aqui.com](https://leandrosfreitas.github.io/Portifolio/))
 
 ## 📬 Contato
 
